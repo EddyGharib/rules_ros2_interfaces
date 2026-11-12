@@ -1,0 +1,4 @@
+exports_files([
+    "cc_opts.bzl",
+    "interfaces.bzl",
+])
